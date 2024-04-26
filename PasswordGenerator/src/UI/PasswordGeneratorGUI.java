@@ -19,7 +19,7 @@ public class PasswordGeneratorGUI extends JFrame {
         getContentPane().setBackground(new Color(225, 247, 245));
 
 
-        ImageIcon icon = new ImageIcon("C:\\Projects-and-Folders\\Informatics-Engineering\\Third-Year\\Second-Season\\Advanced-Algorithms\\Java-Projects\\PasswordGenerator\\src\\Assets\\icon.png");
+        ImageIcon icon = new ImageIcon("src\\Assets\\icon.png");
 
         Image image = icon.getImage();
 
